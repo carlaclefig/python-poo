@@ -1,4 +1,4 @@
-from tipo_cambio import *  # pylint: disable=wildcard-import
+from modulos.tipo_cambio import *  # pylint: disable=wildcard-import
 
 soles = ingresar_valor()
 
